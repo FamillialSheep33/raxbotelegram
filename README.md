@@ -82,7 +82,7 @@ YYYY-MM-DD HH:MM:SS - added to the query: track.mp3
 
 ## What I Learned
 
-Developing RaxSounds provided practical experience building resilient asynchronous Python applications and server automations:
+Developing RaxBotTelegram provided practical experience building resilient asynchronous Python applications and server automations:
 Working with asynchronous Python using asyncio and Pyrogram[cite: 1]
 Designing producer-consumer patterns using asyncio.Queue[cite: 1]
 Verifying file integrity during network streaming[cite: 1]
