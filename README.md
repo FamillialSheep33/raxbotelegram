@@ -22,8 +22,8 @@ A Telegram bot developed in Python with Pyrogram designed to automatically downl
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+  git clone https://github.com/FamillialSheep33/raxbotelegram.git
+ cd raxbotelegram
 2. Install dependencies:
    pip install pyrogram tgcrypto
 
